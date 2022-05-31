@@ -32,7 +32,7 @@ for i in range(1,n+1):
     print(p0)
 ```
 # Output : 
-
+![Capture](https://user-images.githubusercontent.com/75235747/171273943-32662ebd-c62c-4468-9d12-fedd8d55045a.JPG)
 # Results :
 Thus the n-step probability distribution matrix using Markov's Process has been found.
 
